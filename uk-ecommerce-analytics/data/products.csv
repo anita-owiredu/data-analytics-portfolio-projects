@@ -1,0 +1,505 @@
+product_id,product_name,category,subcategory,brand,unit_price,cost_price,stock_quantity
+1,UrbanPeak Headphones 01,Electronics,Headphones,Apex,70.14,41.06,410
+2,Nova Headphones 02,Electronics,Headphones,Apex,28.3,15.99,94
+3,EverydayCo Headphones 03,Electronics,Headphones,Nova,106.12,76.55,418
+4,UrbanPeak Headphones 04,Electronics,Headphones,Luma,49.21,35.6,414
+5,Nova Headphones 05,Electronics,Headphones,EverydayCo,10.09,6.92,483
+6,Apex Headphones 06,Electronics,Headphones,Nova,72.13,55.02,481
+7,Luma Headphones 07,Electronics,Headphones,Pulse,33.95,26.02,464
+8,EverydayCo Headphones 08,Electronics,Headphones,HomeEase,10.05,7.39,428
+9,Luma Headphones 09,Electronics,Headphones,EverydayCo,26.85,19.59,407
+10,Vertex Headphones 10,Electronics,Headphones,Vertex,58.0,32.03,397
+11,HomeEase Headphones 11,Electronics,Headphones,Pulse,16.31,10.77,249
+12,Nova Headphones 12,Electronics,Headphones,Pulse,15.07,9.31,231
+13,Pulse Smartwatch 01,Electronics,Smartwatch,EverydayCo,54.81,37.25,108
+14,Nova Smartwatch 02,Electronics,Smartwatch,UrbanPeak,22.77,16.87,265
+15,Vertex Smartwatch 03,Electronics,Smartwatch,UrbanPeak,70.71,54.86,231
+16,HomeEase Smartwatch 04,Electronics,Smartwatch,Pulse,16.32,11.41,422
+17,EverydayCo Smartwatch 05,Electronics,Smartwatch,Luma,35.61,16.07,376
+18,HomeEase Smartwatch 06,Electronics,Smartwatch,Luma,26.54,18.65,467
+19,Pulse Smartwatch 07,Electronics,Smartwatch,HomeEase,17.32,10.49,410
+20,Luma Smartwatch 08,Electronics,Smartwatch,Nova,18.84,11.86,117
+21,UrbanPeak Smartwatch 09,Electronics,Smartwatch,HomeEase,111.98,62.3,70
+22,Luma Smartwatch 10,Electronics,Smartwatch,Luma,26.09,16.32,104
+23,Vertex Smartwatch 11,Electronics,Smartwatch,Vertex,97.91,63.45,34
+24,EverydayCo Smartwatch 12,Electronics,Smartwatch,Vertex,36.98,19.74,373
+25,Nova Bluetooth Speaker 01,Electronics,Bluetooth Speaker,Nova,237.3,166.79,83
+26,Pulse Bluetooth Speaker 02,Electronics,Bluetooth Speaker,Pulse,18.25,9.05,469
+27,HomeEase Bluetooth Speaker 03,Electronics,Bluetooth Speaker,Luma,23.41,11.92,205
+28,Pulse Bluetooth Speaker 04,Electronics,Bluetooth Speaker,Luma,26.04,19.22,317
+29,HomeEase Bluetooth Speaker 05,Electronics,Bluetooth Speaker,UrbanPeak,46.21,33.4,467
+30,Luma Bluetooth Speaker 06,Electronics,Bluetooth Speaker,Luma,34.71,17.64,13
+31,HomeEase Bluetooth Speaker 07,Electronics,Bluetooth Speaker,EverydayCo,160.86,104.73,247
+32,Pulse Bluetooth Speaker 08,Electronics,Bluetooth Speaker,Pulse,53.62,32.75,62
+33,Pulse Bluetooth Speaker 09,Electronics,Bluetooth Speaker,UrbanPeak,15.49,8.57,24
+34,Nova Bluetooth Speaker 10,Electronics,Bluetooth Speaker,EverydayCo,67.4,37.54,189
+35,Nova Bluetooth Speaker 11,Electronics,Bluetooth Speaker,Nova,103.9,47.22,496
+36,Nova Bluetooth Speaker 12,Electronics,Bluetooth Speaker,Vertex,40.29,25.47,381
+37,Vertex Keyboard 01,Electronics,Keyboard,HomeEase,26.43,14.91,425
+38,Pulse Keyboard 02,Electronics,Keyboard,EverydayCo,19.98,10.7,446
+39,Apex Keyboard 03,Electronics,Keyboard,Apex,49.07,30.18,44
+40,Pulse Keyboard 04,Electronics,Keyboard,Luma,51.8,37.02,391
+41,HomeEase Keyboard 05,Electronics,Keyboard,Pulse,40.29,25.29,61
+42,HomeEase Keyboard 06,Electronics,Keyboard,Luma,63.18,38.21,458
+43,UrbanPeak Keyboard 07,Electronics,Keyboard,Nova,28.49,18.78,396
+44,Apex Keyboard 08,Electronics,Keyboard,Vertex,30.55,22.18,10
+45,Vertex Keyboard 09,Electronics,Keyboard,Vertex,18.83,12.25,257
+46,Vertex Keyboard 10,Electronics,Keyboard,UrbanPeak,28.39,21.55,412
+47,Pulse Keyboard 11,Electronics,Keyboard,EverydayCo,15.28,8.92,101
+48,Nova Keyboard 12,Electronics,Keyboard,Luma,38.63,22.53,348
+49,HomeEase Mouse 01,Electronics,Mouse,EverydayCo,43.09,32.24,354
+50,EverydayCo Mouse 02,Electronics,Mouse,Pulse,49.34,29.13,238
+51,EverydayCo Mouse 03,Electronics,Mouse,Pulse,25.27,14.02,333
+52,HomeEase Mouse 04,Electronics,Mouse,HomeEase,18.03,10.43,192
+53,EverydayCo Mouse 05,Electronics,Mouse,Vertex,55.41,41.09,447
+54,Pulse Mouse 06,Electronics,Mouse,UrbanPeak,48.77,32.74,275
+55,HomeEase Mouse 07,Electronics,Mouse,HomeEase,36.86,21.19,427
+56,Apex Mouse 08,Electronics,Mouse,HomeEase,31.88,23.96,30
+57,Vertex Mouse 09,Electronics,Mouse,HomeEase,57.84,45.08,61
+58,Luma Mouse 10,Electronics,Mouse,EverydayCo,12.17,9.02,344
+59,UrbanPeak Mouse 11,Electronics,Mouse,Nova,9.42,4.84,468
+60,Apex Mouse 12,Electronics,Mouse,Vertex,16.68,12.57,447
+61,HomeEase Monitor 01,Electronics,Monitor,Apex,17.93,12.99,301
+62,Nova Monitor 02,Electronics,Monitor,EverydayCo,10.64,6.82,307
+63,HomeEase Monitor 03,Electronics,Monitor,UrbanPeak,59.12,27.79,470
+64,Nova Monitor 04,Electronics,Monitor,EverydayCo,58.81,28.04,418
+65,Nova Monitor 05,Electronics,Monitor,Luma,31.99,23.27,317
+66,Nova Monitor 06,Electronics,Monitor,Nova,22.81,13.53,223
+67,Vertex Monitor 07,Electronics,Monitor,EverydayCo,62.09,38.44,32
+68,EverydayCo Monitor 08,Electronics,Monitor,Pulse,35.61,21.99,147
+69,HomeEase Monitor 09,Electronics,Monitor,UrbanPeak,26.84,16.1,403
+70,Nova Monitor 10,Electronics,Monitor,Luma,23.43,17.25,268
+71,UrbanPeak Monitor 11,Electronics,Monitor,EverydayCo,19.71,11.88,229
+72,Luma Monitor 12,Electronics,Monitor,EverydayCo,36.35,23.86,151
+73,Luma Power Bank 01,Electronics,Power Bank,Nova,12.72,6.29,333
+74,HomeEase Power Bank 02,Electronics,Power Bank,Pulse,19.59,10.11,329
+75,Nova Power Bank 03,Electronics,Power Bank,EverydayCo,159.3,84.75,413
+76,Vertex Power Bank 04,Electronics,Power Bank,Apex,107.44,79.82,446
+77,Apex Power Bank 05,Electronics,Power Bank,HomeEase,24.12,12.6,362
+78,EverydayCo Power Bank 06,Electronics,Power Bank,EverydayCo,21.52,11.9,327
+79,EverydayCo Power Bank 07,Electronics,Power Bank,HomeEase,135.12,89.72,210
+80,Apex Power Bank 08,Electronics,Power Bank,HomeEase,24.71,15.51,392
+81,Luma Power Bank 09,Electronics,Power Bank,UrbanPeak,51.09,37.95,136
+82,Nova Power Bank 10,Electronics,Power Bank,Nova,14.66,8.54,212
+83,Pulse Power Bank 11,Electronics,Power Bank,EverydayCo,33.64,23.35,92
+84,UrbanPeak Power Bank 12,Electronics,Power Bank,Vertex,40.94,29.98,404
+85,Apex Air Fryer 01,Home & Kitchen,Air Fryer,Apex,43.03,20.88,247
+86,EverydayCo Air Fryer 02,Home & Kitchen,Air Fryer,UrbanPeak,50.37,34.99,376
+87,Vertex Air Fryer 03,Home & Kitchen,Air Fryer,EverydayCo,67.08,41.82,494
+88,Apex Air Fryer 04,Home & Kitchen,Air Fryer,Vertex,22.07,12.0,36
+89,Luma Air Fryer 05,Home & Kitchen,Air Fryer,HomeEase,32.0,16.83,480
+90,Apex Air Fryer 06,Home & Kitchen,Air Fryer,EverydayCo,51.79,30.1,496
+91,Luma Air Fryer 07,Home & Kitchen,Air Fryer,Apex,126.19,85.54,18
+92,UrbanPeak Air Fryer 08,Home & Kitchen,Air Fryer,Vertex,76.26,52.23,185
+93,UrbanPeak Air Fryer 09,Home & Kitchen,Air Fryer,Pulse,65.21,37.57,164
+94,Pulse Air Fryer 10,Home & Kitchen,Air Fryer,UrbanPeak,38.66,18.99,76
+95,EverydayCo Air Fryer 11,Home & Kitchen,Air Fryer,HomeEase,71.91,53.84,255
+96,Nova Air Fryer 12,Home & Kitchen,Air Fryer,EverydayCo,48.71,28.55,350
+97,Apex Coffee Maker 01,Home & Kitchen,Coffee Maker,EverydayCo,38.68,29.14,349
+98,Pulse Coffee Maker 02,Home & Kitchen,Coffee Maker,HomeEase,58.14,32.68,465
+99,HomeEase Coffee Maker 03,Home & Kitchen,Coffee Maker,Luma,31.5,14.82,80
+100,Vertex Coffee Maker 04,Home & Kitchen,Coffee Maker,HomeEase,26.92,17.44,226
+101,EverydayCo Coffee Maker 05,Home & Kitchen,Coffee Maker,UrbanPeak,51.82,35.15,412
+102,Vertex Coffee Maker 06,Home & Kitchen,Coffee Maker,EverydayCo,96.12,52.18,455
+103,Apex Coffee Maker 07,Home & Kitchen,Coffee Maker,Nova,25.97,16.77,475
+104,EverydayCo Coffee Maker 08,Home & Kitchen,Coffee Maker,Nova,29.56,17.2,224
+105,Luma Coffee Maker 09,Home & Kitchen,Coffee Maker,Pulse,13.84,8.35,96
+106,Apex Coffee Maker 10,Home & Kitchen,Coffee Maker,Pulse,55.98,43.62,300
+107,EverydayCo Coffee Maker 11,Home & Kitchen,Coffee Maker,HomeEase,32.0,15.25,433
+108,Vertex Coffee Maker 12,Home & Kitchen,Coffee Maker,Vertex,22.29,11.98,496
+109,Pulse Blender 01,Home & Kitchen,Blender,Luma,84.08,38.29,163
+110,Apex Blender 02,Home & Kitchen,Blender,Luma,44.67,22.89,303
+111,Pulse Blender 03,Home & Kitchen,Blender,HomeEase,35.71,19.93,127
+112,HomeEase Blender 04,Home & Kitchen,Blender,Pulse,36.81,25.59,159
+113,HomeEase Blender 05,Home & Kitchen,Blender,Nova,62.05,44.65,116
+114,Vertex Blender 06,Home & Kitchen,Blender,Pulse,33.95,21.68,406
+115,UrbanPeak Blender 07,Home & Kitchen,Blender,Nova,60.61,41.59,180
+116,UrbanPeak Blender 08,Home & Kitchen,Blender,EverydayCo,68.38,47.29,70
+117,UrbanPeak Blender 09,Home & Kitchen,Blender,Vertex,32.0,23.9,15
+118,EverydayCo Blender 10,Home & Kitchen,Blender,HomeEase,16.4,8.68,467
+119,EverydayCo Blender 11,Home & Kitchen,Blender,Apex,49.58,24.77,42
+120,Pulse Blender 12,Home & Kitchen,Blender,EverydayCo,57.95,41.8,462
+121,EverydayCo Cookware Set 01,Home & Kitchen,Cookware Set,EverydayCo,39.2,21.2,389
+122,UrbanPeak Cookware Set 02,Home & Kitchen,Cookware Set,UrbanPeak,44.61,31.81,60
+123,Apex Cookware Set 03,Home & Kitchen,Cookware Set,Pulse,47.54,34.66,179
+124,Pulse Cookware Set 04,Home & Kitchen,Cookware Set,Apex,25.3,14.66,352
+125,Nova Cookware Set 05,Home & Kitchen,Cookware Set,HomeEase,74.27,36.3,184
+126,Nova Cookware Set 06,Home & Kitchen,Cookware Set,EverydayCo,79.73,52.93,247
+127,Luma Cookware Set 07,Home & Kitchen,Cookware Set,Vertex,95.13,45.92,125
+128,Luma Cookware Set 08,Home & Kitchen,Cookware Set,Pulse,46.17,33.82,172
+129,Luma Cookware Set 09,Home & Kitchen,Cookware Set,HomeEase,13.04,9.16,41
+130,HomeEase Cookware Set 10,Home & Kitchen,Cookware Set,UrbanPeak,37.21,17.21,440
+131,EverydayCo Cookware Set 11,Home & Kitchen,Cookware Set,HomeEase,30.64,15.76,456
+132,Nova Cookware Set 12,Home & Kitchen,Cookware Set,Nova,48.0,27.98,181
+133,Apex Desk Lamp 01,Home & Kitchen,Desk Lamp,EverydayCo,152.03,103.33,261
+134,UrbanPeak Desk Lamp 02,Home & Kitchen,Desk Lamp,UrbanPeak,26.27,18.48,164
+135,Nova Desk Lamp 03,Home & Kitchen,Desk Lamp,HomeEase,48.28,30.08,56
+136,Luma Desk Lamp 04,Home & Kitchen,Desk Lamp,Apex,194.59,122.15,221
+137,Nova Desk Lamp 05,Home & Kitchen,Desk Lamp,HomeEase,46.7,31.27,107
+138,Pulse Desk Lamp 06,Home & Kitchen,Desk Lamp,HomeEase,22.8,13.84,206
+139,Luma Desk Lamp 07,Home & Kitchen,Desk Lamp,Pulse,34.01,17.08,143
+140,Nova Desk Lamp 08,Home & Kitchen,Desk Lamp,UrbanPeak,75.52,43.76,415
+141,UrbanPeak Desk Lamp 09,Home & Kitchen,Desk Lamp,Nova,57.7,37.18,317
+142,HomeEase Desk Lamp 10,Home & Kitchen,Desk Lamp,Luma,62.0,43.74,498
+143,Apex Desk Lamp 11,Home & Kitchen,Desk Lamp,Nova,26.91,14.27,146
+144,HomeEase Desk Lamp 12,Home & Kitchen,Desk Lamp,Apex,14.66,6.99,216
+145,Luma Storage Box 01,Home & Kitchen,Storage Box,Pulse,27.05,14.2,130
+146,Pulse Storage Box 02,Home & Kitchen,Storage Box,HomeEase,34.85,17.08,147
+147,Luma Storage Box 03,Home & Kitchen,Storage Box,UrbanPeak,38.45,25.77,85
+148,Pulse Storage Box 04,Home & Kitchen,Storage Box,Nova,10.49,6.8,325
+149,Pulse Storage Box 05,Home & Kitchen,Storage Box,Luma,17.55,9.0,249
+150,Pulse Storage Box 06,Home & Kitchen,Storage Box,Pulse,11.64,7.83,16
+151,Pulse Storage Box 07,Home & Kitchen,Storage Box,HomeEase,70.7,37.84,316
+152,Vertex Storage Box 08,Home & Kitchen,Storage Box,Vertex,17.9,10.55,190
+153,Nova Storage Box 09,Home & Kitchen,Storage Box,Vertex,44.65,34.62,150
+154,UrbanPeak Storage Box 10,Home & Kitchen,Storage Box,Pulse,119.4,65.35,458
+155,Apex Storage Box 11,Home & Kitchen,Storage Box,Pulse,43.95,23.19,410
+156,Nova Storage Box 12,Home & Kitchen,Storage Box,Pulse,42.97,30.59,241
+157,Luma Vacuum Cleaner 01,Home & Kitchen,Vacuum Cleaner,Nova,33.19,17.77,65
+158,EverydayCo Vacuum Cleaner 02,Home & Kitchen,Vacuum Cleaner,HomeEase,37.67,24.62,487
+159,EverydayCo Vacuum Cleaner 03,Home & Kitchen,Vacuum Cleaner,Luma,37.88,24.1,260
+160,UrbanPeak Vacuum Cleaner 04,Home & Kitchen,Vacuum Cleaner,HomeEase,23.98,16.27,138
+161,Pulse Vacuum Cleaner 05,Home & Kitchen,Vacuum Cleaner,HomeEase,13.91,8.24,206
+162,Apex Vacuum Cleaner 06,Home & Kitchen,Vacuum Cleaner,Vertex,16.14,11.01,110
+163,Nova Vacuum Cleaner 07,Home & Kitchen,Vacuum Cleaner,Apex,42.66,22.47,423
+164,Luma Vacuum Cleaner 08,Home & Kitchen,Vacuum Cleaner,EverydayCo,42.11,27.83,437
+165,UrbanPeak Vacuum Cleaner 09,Home & Kitchen,Vacuum Cleaner,HomeEase,14.73,7.5,52
+166,UrbanPeak Vacuum Cleaner 10,Home & Kitchen,Vacuum Cleaner,HomeEase,30.34,22.07,126
+167,Apex Vacuum Cleaner 11,Home & Kitchen,Vacuum Cleaner,HomeEase,43.12,24.84,442
+168,Vertex Vacuum Cleaner 12,Home & Kitchen,Vacuum Cleaner,HomeEase,24.83,12.86,392
+169,Luma Hoodie 01,Fashion,Hoodie,UrbanPeak,14.63,6.95,79
+170,Pulse Hoodie 02,Fashion,Hoodie,Nova,42.13,30.66,114
+171,EverydayCo Hoodie 03,Fashion,Hoodie,HomeEase,9.64,6.05,282
+172,EverydayCo Hoodie 04,Fashion,Hoodie,HomeEase,46.71,30.85,215
+173,UrbanPeak Hoodie 05,Fashion,Hoodie,EverydayCo,12.8,5.92,28
+174,Apex Hoodie 06,Fashion,Hoodie,Vertex,19.94,14.82,164
+175,Pulse Hoodie 07,Fashion,Hoodie,Vertex,46.73,29.79,422
+176,EverydayCo Hoodie 08,Fashion,Hoodie,EverydayCo,32.83,19.05,395
+177,UrbanPeak Hoodie 09,Fashion,Hoodie,HomeEase,76.81,44.76,256
+178,Vertex Hoodie 10,Fashion,Hoodie,Luma,9.15,4.89,81
+179,Apex Hoodie 11,Fashion,Hoodie,Nova,31.63,16.69,249
+180,Apex Hoodie 12,Fashion,Hoodie,Luma,20.01,9.78,330
+181,Vertex Sneakers 01,Fashion,Sneakers,Apex,37.71,20.06,484
+182,Nova Sneakers 02,Fashion,Sneakers,HomeEase,32.47,21.12,440
+183,Pulse Sneakers 03,Fashion,Sneakers,Nova,15.47,10.38,361
+184,HomeEase Sneakers 04,Fashion,Sneakers,Vertex,51.02,28.53,124
+185,Nova Sneakers 05,Fashion,Sneakers,Luma,50.3,24.57,294
+186,Nova Sneakers 06,Fashion,Sneakers,Vertex,17.28,13.17,199
+187,UrbanPeak Sneakers 07,Fashion,Sneakers,Apex,87.61,46.66,14
+188,Nova Sneakers 08,Fashion,Sneakers,Vertex,16.21,7.76,413
+189,Vertex Sneakers 09,Fashion,Sneakers,EverydayCo,135.28,65.83,43
+190,Pulse Sneakers 10,Fashion,Sneakers,Nova,37.17,21.01,415
+191,Luma Sneakers 11,Fashion,Sneakers,Vertex,45.25,25.3,227
+192,Luma Sneakers 12,Fashion,Sneakers,Pulse,24.25,17.89,472
+193,EverydayCo Jeans 01,Fashion,Jeans,EverydayCo,62.32,29.03,229
+194,UrbanPeak Jeans 02,Fashion,Jeans,Apex,15.89,11.09,333
+195,HomeEase Jeans 03,Fashion,Jeans,Luma,29.62,19.15,23
+196,Apex Jeans 04,Fashion,Jeans,UrbanPeak,26.99,13.59,39
+197,Luma Jeans 05,Fashion,Jeans,UrbanPeak,40.56,23.37,119
+198,Vertex Jeans 06,Fashion,Jeans,Apex,119.17,89.0,341
+199,UrbanPeak Jeans 07,Fashion,Jeans,EverydayCo,18.92,13.61,459
+200,Apex Jeans 08,Fashion,Jeans,Pulse,28.77,19.29,330
+201,Pulse Jeans 09,Fashion,Jeans,Nova,79.32,37.88,178
+202,EverydayCo Jeans 10,Fashion,Jeans,Pulse,35.19,23.37,173
+203,UrbanPeak Jeans 11,Fashion,Jeans,Apex,36.74,19.97,249
+204,UrbanPeak Jeans 12,Fashion,Jeans,UrbanPeak,27.42,15.79,55
+205,Luma T-Shirt 01,Fashion,T-Shirt,Nova,71.41,32.78,207
+206,Nova T-Shirt 02,Fashion,T-Shirt,HomeEase,102.74,57.78,443
+207,UrbanPeak T-Shirt 03,Fashion,T-Shirt,UrbanPeak,27.89,12.95,483
+208,HomeEase T-Shirt 04,Fashion,T-Shirt,EverydayCo,17.63,13.47,104
+209,Nova T-Shirt 05,Fashion,T-Shirt,Nova,30.07,22.78,390
+210,UrbanPeak T-Shirt 06,Fashion,T-Shirt,UrbanPeak,20.88,14.81,255
+211,HomeEase T-Shirt 07,Fashion,T-Shirt,Vertex,30.57,18.95,142
+212,Vertex T-Shirt 08,Fashion,T-Shirt,Vertex,57.59,36.21,193
+213,Pulse T-Shirt 09,Fashion,T-Shirt,HomeEase,42.98,25.48,338
+214,Pulse T-Shirt 10,Fashion,T-Shirt,Apex,27.04,13.81,340
+215,Vertex T-Shirt 11,Fashion,T-Shirt,HomeEase,45.28,20.7,244
+216,Vertex T-Shirt 12,Fashion,T-Shirt,Nova,52.46,38.59,330
+217,Apex Dress 01,Fashion,Dress,Vertex,32.26,23.12,65
+218,Nova Dress 02,Fashion,Dress,Pulse,69.89,39.83,87
+219,EverydayCo Dress 03,Fashion,Dress,Pulse,21.46,16.61,419
+220,Apex Dress 04,Fashion,Dress,UrbanPeak,59.28,37.23,271
+221,Pulse Dress 05,Fashion,Dress,HomeEase,104.5,52.4,86
+222,UrbanPeak Dress 06,Fashion,Dress,Luma,28.6,15.92,44
+223,Luma Dress 07,Fashion,Dress,Pulse,63.58,47.52,110
+224,EverydayCo Dress 08,Fashion,Dress,HomeEase,50.29,30.03,498
+225,HomeEase Dress 09,Fashion,Dress,HomeEase,34.01,20.02,101
+226,Pulse Dress 10,Fashion,Dress,Pulse,12.99,6.59,42
+227,Pulse Dress 11,Fashion,Dress,Luma,17.36,9.52,424
+228,Luma Dress 12,Fashion,Dress,Vertex,41.45,20.01,357
+229,UrbanPeak Jacket 01,Fashion,Jacket,Luma,20.95,12.89,436
+230,UrbanPeak Jacket 02,Fashion,Jacket,EverydayCo,37.9,20.1,41
+231,EverydayCo Jacket 03,Fashion,Jacket,Vertex,25.68,18.62,19
+232,Apex Jacket 04,Fashion,Jacket,EverydayCo,50.46,28.63,105
+233,EverydayCo Jacket 05,Fashion,Jacket,UrbanPeak,44.22,29.59,373
+234,Luma Jacket 06,Fashion,Jacket,Apex,18.45,12.19,96
+235,Luma Jacket 07,Fashion,Jacket,Pulse,40.08,24.64,442
+236,UrbanPeak Jacket 08,Fashion,Jacket,Apex,8.18,5.43,81
+237,UrbanPeak Jacket 09,Fashion,Jacket,Apex,56.69,40.93,328
+238,Vertex Jacket 10,Fashion,Jacket,Pulse,24.94,16.02,344
+239,Nova Jacket 11,Fashion,Jacket,HomeEase,40.5,27.28,305
+240,Apex Jacket 12,Fashion,Jacket,Pulse,31.29,18.35,280
+241,Vertex Backpack 01,Fashion,Backpack,Apex,43.05,28.71,52
+242,UrbanPeak Backpack 02,Fashion,Backpack,Nova,17.16,13.3,290
+243,Luma Backpack 03,Fashion,Backpack,UrbanPeak,17.24,7.8,287
+244,EverydayCo Backpack 04,Fashion,Backpack,Vertex,34.8,17.9,371
+245,HomeEase Backpack 05,Fashion,Backpack,Nova,36.05,16.75,330
+246,EverydayCo Backpack 06,Fashion,Backpack,UrbanPeak,32.44,21.72,499
+247,UrbanPeak Backpack 07,Fashion,Backpack,Apex,63.54,42.39,253
+248,Apex Backpack 08,Fashion,Backpack,Luma,15.39,11.97,282
+249,Nova Backpack 09,Fashion,Backpack,UrbanPeak,43.64,20.17,158
+250,Apex Backpack 10,Fashion,Backpack,Luma,82.48,39.42,293
+251,Luma Backpack 11,Fashion,Backpack,Luma,33.13,17.67,309
+252,EverydayCo Backpack 12,Fashion,Backpack,UrbanPeak,22.9,13.07,219
+253,EverydayCo Skincare Set 01,Beauty,Skincare Set,Vertex,11.38,6.32,364
+254,HomeEase Skincare Set 02,Beauty,Skincare Set,Pulse,21.58,13.56,412
+255,EverydayCo Skincare Set 03,Beauty,Skincare Set,EverydayCo,5.76,3.0,423
+256,HomeEase Skincare Set 04,Beauty,Skincare Set,Nova,112.22,81.64,166
+257,Vertex Skincare Set 05,Beauty,Skincare Set,UrbanPeak,52.66,40.15,31
+258,EverydayCo Skincare Set 06,Beauty,Skincare Set,Luma,40.86,20.91,272
+259,Apex Skincare Set 07,Beauty,Skincare Set,Luma,111.99,72.64,251
+260,EverydayCo Skincare Set 08,Beauty,Skincare Set,Vertex,27.0,12.5,474
+261,Vertex Skincare Set 09,Beauty,Skincare Set,Vertex,46.73,31.01,157
+262,HomeEase Skincare Set 10,Beauty,Skincare Set,Luma,77.24,58.34,27
+263,Nova Skincare Set 11,Beauty,Skincare Set,Vertex,103.88,63.85,314
+264,Nova Skincare Set 12,Beauty,Skincare Set,Nova,30.24,16.87,246
+265,UrbanPeak Face Cream 01,Beauty,Face Cream,Luma,31.81,20.0,333
+266,Nova Face Cream 02,Beauty,Face Cream,Luma,20.05,14.63,289
+267,Pulse Face Cream 03,Beauty,Face Cream,Nova,79.27,55.58,348
+268,Apex Face Cream 04,Beauty,Face Cream,Nova,51.43,23.57,128
+269,UrbanPeak Face Cream 05,Beauty,Face Cream,Vertex,28.05,13.47,400
+270,UrbanPeak Face Cream 06,Beauty,Face Cream,HomeEase,59.84,26.94,256
+271,Nova Face Cream 07,Beauty,Face Cream,Pulse,77.12,58.57,270
+272,HomeEase Face Cream 08,Beauty,Face Cream,Luma,15.8,11.47,268
+273,EverydayCo Face Cream 09,Beauty,Face Cream,HomeEase,27.8,16.39,190
+274,UrbanPeak Face Cream 10,Beauty,Face Cream,HomeEase,61.9,45.17,349
+275,Pulse Face Cream 11,Beauty,Face Cream,Luma,18.09,10.02,34
+276,UrbanPeak Face Cream 12,Beauty,Face Cream,Nova,39.1,22.22,304
+277,Luma Shampoo 01,Beauty,Shampoo,Nova,22.28,14.27,375
+278,Pulse Shampoo 02,Beauty,Shampoo,Vertex,41.35,22.57,11
+279,Pulse Shampoo 03,Beauty,Shampoo,HomeEase,50.86,39.58,147
+280,Apex Shampoo 04,Beauty,Shampoo,Luma,48.14,30.41,478
+281,Apex Shampoo 05,Beauty,Shampoo,HomeEase,22.04,14.43,203
+282,Pulse Shampoo 06,Beauty,Shampoo,Vertex,34.25,17.14,92
+283,EverydayCo Shampoo 07,Beauty,Shampoo,UrbanPeak,23.52,12.53,368
+284,EverydayCo Shampoo 08,Beauty,Shampoo,EverydayCo,40.58,25.11,76
+285,Apex Shampoo 09,Beauty,Shampoo,EverydayCo,24.88,14.07,495
+286,Vertex Shampoo 10,Beauty,Shampoo,Nova,27.05,21.05,327
+287,EverydayCo Shampoo 11,Beauty,Shampoo,Nova,51.24,38.71,308
+288,HomeEase Shampoo 12,Beauty,Shampoo,Luma,218.71,126.76,306
+289,HomeEase Perfume 01,Beauty,Perfume,Pulse,51.25,38.55,486
+290,EverydayCo Perfume 02,Beauty,Perfume,Pulse,40.6,29.5,248
+291,Luma Perfume 03,Beauty,Perfume,Luma,84.58,47.96,309
+292,EverydayCo Perfume 04,Beauty,Perfume,Nova,17.32,9.83,348
+293,Apex Perfume 05,Beauty,Perfume,EverydayCo,22.29,13.66,219
+294,EverydayCo Perfume 06,Beauty,Perfume,UrbanPeak,27.37,14.48,263
+295,UrbanPeak Perfume 07,Beauty,Perfume,UrbanPeak,49.77,35.61,288
+296,Vertex Perfume 08,Beauty,Perfume,Nova,14.98,7.72,226
+297,Luma Perfume 09,Beauty,Perfume,Vertex,41.93,20.17,151
+298,Vertex Perfume 10,Beauty,Perfume,Pulse,28.77,19.12,64
+299,Apex Perfume 11,Beauty,Perfume,UrbanPeak,29.47,13.61,75
+300,Pulse Perfume 12,Beauty,Perfume,Nova,16.09,10.77,445
+301,Nova Hair Dryer 01,Beauty,Hair Dryer,UrbanPeak,31.88,17.52,497
+302,Apex Hair Dryer 02,Beauty,Hair Dryer,UrbanPeak,5.0,2.95,103
+303,EverydayCo Hair Dryer 03,Beauty,Hair Dryer,Apex,32.04,23.58,75
+304,Vertex Hair Dryer 04,Beauty,Hair Dryer,Nova,67.29,35.33,180
+305,EverydayCo Hair Dryer 05,Beauty,Hair Dryer,Luma,119.05,62.98,281
+306,Pulse Hair Dryer 06,Beauty,Hair Dryer,Pulse,24.6,13.81,292
+307,HomeEase Hair Dryer 07,Beauty,Hair Dryer,Nova,66.17,42.34,254
+308,Nova Hair Dryer 08,Beauty,Hair Dryer,Nova,33.4,23.69,71
+309,EverydayCo Hair Dryer 09,Beauty,Hair Dryer,Apex,27.27,17.3,444
+310,Pulse Hair Dryer 10,Beauty,Hair Dryer,HomeEase,77.86,42.02,253
+311,Apex Hair Dryer 11,Beauty,Hair Dryer,Apex,40.26,28.78,311
+312,HomeEase Hair Dryer 12,Beauty,Hair Dryer,Pulse,8.92,4.08,108
+313,Pulse Makeup Kit 01,Beauty,Makeup Kit,EverydayCo,49.74,32.05,226
+314,Apex Makeup Kit 02,Beauty,Makeup Kit,UrbanPeak,22.28,11.25,397
+315,HomeEase Makeup Kit 03,Beauty,Makeup Kit,Nova,21.34,15.52,471
+316,Apex Makeup Kit 04,Beauty,Makeup Kit,EverydayCo,43.02,25.72,206
+317,Vertex Makeup Kit 05,Beauty,Makeup Kit,UrbanPeak,13.97,7.36,119
+318,Pulse Makeup Kit 06,Beauty,Makeup Kit,Luma,42.62,30.65,340
+319,Luma Makeup Kit 07,Beauty,Makeup Kit,EverydayCo,17.61,10.28,427
+320,HomeEase Makeup Kit 08,Beauty,Makeup Kit,Pulse,39.55,25.98,89
+321,UrbanPeak Makeup Kit 09,Beauty,Makeup Kit,Pulse,24.36,17.09,382
+322,Luma Makeup Kit 10,Beauty,Makeup Kit,Pulse,16.74,12.08,72
+323,Nova Makeup Kit 11,Beauty,Makeup Kit,Luma,68.7,52.79,352
+324,Apex Makeup Kit 12,Beauty,Makeup Kit,EverydayCo,68.63,44.52,434
+325,UrbanPeak Body Lotion 01,Beauty,Body Lotion,Vertex,38.36,18.54,104
+326,Apex Body Lotion 02,Beauty,Body Lotion,Luma,26.63,18.5,185
+327,Vertex Body Lotion 03,Beauty,Body Lotion,Vertex,45.16,20.78,347
+328,HomeEase Body Lotion 04,Beauty,Body Lotion,Vertex,62.06,32.76,487
+329,EverydayCo Body Lotion 05,Beauty,Body Lotion,UrbanPeak,71.89,38.33,320
+330,Vertex Body Lotion 06,Beauty,Body Lotion,HomeEase,33.64,20.97,100
+331,Vertex Body Lotion 07,Beauty,Body Lotion,HomeEase,36.92,18.23,96
+332,UrbanPeak Body Lotion 08,Beauty,Body Lotion,Apex,9.91,5.36,318
+333,Pulse Body Lotion 09,Beauty,Body Lotion,Apex,24.12,14.73,22
+334,Vertex Body Lotion 10,Beauty,Body Lotion,Apex,18.98,13.32,290
+335,Nova Body Lotion 11,Beauty,Body Lotion,Luma,56.41,42.69,276
+336,HomeEase Body Lotion 12,Beauty,Body Lotion,Apex,12.48,6.82,360
+337,HomeEase Yoga Mat 01,Sports & Fitness,Yoga Mat,HomeEase,69.57,32.84,401
+338,Nova Yoga Mat 02,Sports & Fitness,Yoga Mat,Apex,42.92,21.98,418
+339,Vertex Yoga Mat 03,Sports & Fitness,Yoga Mat,HomeEase,13.65,7.5,496
+340,Luma Yoga Mat 04,Sports & Fitness,Yoga Mat,Vertex,28.94,22.41,187
+341,Vertex Yoga Mat 05,Sports & Fitness,Yoga Mat,Vertex,76.49,53.46,337
+342,Pulse Yoga Mat 06,Sports & Fitness,Yoga Mat,Pulse,63.38,35.12,170
+343,Pulse Yoga Mat 07,Sports & Fitness,Yoga Mat,EverydayCo,24.18,14.05,370
+344,Apex Yoga Mat 08,Sports & Fitness,Yoga Mat,Vertex,38.08,20.3,198
+345,Nova Yoga Mat 09,Sports & Fitness,Yoga Mat,Pulse,17.45,10.19,350
+346,UrbanPeak Yoga Mat 10,Sports & Fitness,Yoga Mat,Pulse,7.45,4.59,361
+347,Luma Yoga Mat 11,Sports & Fitness,Yoga Mat,HomeEase,18.17,11.86,40
+348,Luma Yoga Mat 12,Sports & Fitness,Yoga Mat,UrbanPeak,14.51,10.16,175
+349,HomeEase Dumbbells 01,Sports & Fitness,Dumbbells,Vertex,25.94,17.41,314
+350,HomeEase Dumbbells 02,Sports & Fitness,Dumbbells,HomeEase,5.29,3.45,133
+351,Pulse Dumbbells 03,Sports & Fitness,Dumbbells,HomeEase,131.04,100.8,115
+352,Vertex Dumbbells 04,Sports & Fitness,Dumbbells,Luma,15.08,7.18,464
+353,Nova Dumbbells 05,Sports & Fitness,Dumbbells,Apex,57.74,28.33,255
+354,HomeEase Dumbbells 06,Sports & Fitness,Dumbbells,Nova,21.83,15.0,485
+355,HomeEase Dumbbells 07,Sports & Fitness,Dumbbells,Luma,45.32,22.2,43
+356,Pulse Dumbbells 08,Sports & Fitness,Dumbbells,Apex,51.04,35.23,409
+357,EverydayCo Dumbbells 09,Sports & Fitness,Dumbbells,UrbanPeak,22.13,11.97,254
+358,UrbanPeak Dumbbells 10,Sports & Fitness,Dumbbells,UrbanPeak,33.72,21.49,497
+359,HomeEase Dumbbells 11,Sports & Fitness,Dumbbells,HomeEase,145.38,101.64,275
+360,Apex Dumbbells 12,Sports & Fitness,Dumbbells,HomeEase,37.28,24.62,202
+361,Apex Running Shoes 01,Sports & Fitness,Running Shoes,Luma,48.59,28.35,409
+362,Pulse Running Shoes 02,Sports & Fitness,Running Shoes,Pulse,39.8,27.54,153
+363,UrbanPeak Running Shoes 03,Sports & Fitness,Running Shoes,Luma,16.73,9.37,163
+364,Pulse Running Shoes 04,Sports & Fitness,Running Shoes,HomeEase,28.6,14.9,436
+365,Vertex Running Shoes 05,Sports & Fitness,Running Shoes,Nova,53.23,35.57,175
+366,Nova Running Shoes 06,Sports & Fitness,Running Shoes,Nova,38.68,27.95,342
+367,Luma Running Shoes 07,Sports & Fitness,Running Shoes,Pulse,70.5,42.6,299
+368,Vertex Running Shoes 08,Sports & Fitness,Running Shoes,Nova,77.12,49.78,51
+369,Luma Running Shoes 09,Sports & Fitness,Running Shoes,HomeEase,120.84,79.69,102
+370,Luma Running Shoes 10,Sports & Fitness,Running Shoes,EverydayCo,8.27,5.11,301
+371,Nova Running Shoes 11,Sports & Fitness,Running Shoes,HomeEase,23.2,11.46,103
+372,HomeEase Running Shoes 12,Sports & Fitness,Running Shoes,HomeEase,39.51,22.29,183
+373,Luma Resistance Bands 01,Sports & Fitness,Resistance Bands,Nova,28.48,19.07,316
+374,Pulse Resistance Bands 02,Sports & Fitness,Resistance Bands,HomeEase,17.55,11.79,37
+375,Luma Resistance Bands 03,Sports & Fitness,Resistance Bands,Apex,38.17,22.75,441
+376,Luma Resistance Bands 04,Sports & Fitness,Resistance Bands,Vertex,95.33,50.95,112
+377,Vertex Resistance Bands 05,Sports & Fitness,Resistance Bands,Nova,40.64,27.42,310
+378,Pulse Resistance Bands 06,Sports & Fitness,Resistance Bands,Nova,44.37,21.22,80
+379,Pulse Resistance Bands 07,Sports & Fitness,Resistance Bands,HomeEase,36.72,19.89,338
+380,UrbanPeak Resistance Bands 08,Sports & Fitness,Resistance Bands,Luma,21.02,9.59,304
+381,Apex Resistance Bands 09,Sports & Fitness,Resistance Bands,EverydayCo,50.11,25.88,447
+382,Luma Resistance Bands 10,Sports & Fitness,Resistance Bands,HomeEase,31.98,20.76,377
+383,UrbanPeak Resistance Bands 11,Sports & Fitness,Resistance Bands,EverydayCo,111.55,65.18,179
+384,UrbanPeak Resistance Bands 12,Sports & Fitness,Resistance Bands,Luma,24.28,16.55,348
+385,UrbanPeak Water Bottle 01,Sports & Fitness,Water Bottle,Vertex,55.98,27.24,309
+386,Luma Water Bottle 02,Sports & Fitness,Water Bottle,Vertex,39.7,28.01,374
+387,Apex Water Bottle 03,Sports & Fitness,Water Bottle,Pulse,89.79,45.17,135
+388,Nova Water Bottle 04,Sports & Fitness,Water Bottle,Nova,31.17,18.96,71
+389,HomeEase Water Bottle 05,Sports & Fitness,Water Bottle,UrbanPeak,162.1,80.33,145
+390,UrbanPeak Water Bottle 06,Sports & Fitness,Water Bottle,Pulse,34.8,19.12,48
+391,UrbanPeak Water Bottle 07,Sports & Fitness,Water Bottle,HomeEase,32.7,14.99,425
+392,EverydayCo Water Bottle 08,Sports & Fitness,Water Bottle,UrbanPeak,22.46,13.41,352
+393,Vertex Water Bottle 09,Sports & Fitness,Water Bottle,UrbanPeak,33.02,17.54,113
+394,Nova Water Bottle 10,Sports & Fitness,Water Bottle,EverydayCo,6.88,4.22,303
+395,Nova Water Bottle 11,Sports & Fitness,Water Bottle,Nova,42.02,32.77,182
+396,Apex Water Bottle 12,Sports & Fitness,Water Bottle,Nova,18.4,12.3,211
+397,Luma Fitness Tracker 01,Sports & Fitness,Fitness Tracker,Vertex,24.92,13.16,340
+398,Luma Fitness Tracker 02,Sports & Fitness,Fitness Tracker,Luma,40.81,23.58,195
+399,Nova Fitness Tracker 03,Sports & Fitness,Fitness Tracker,UrbanPeak,11.07,6.46,457
+400,EverydayCo Fitness Tracker 04,Sports & Fitness,Fitness Tracker,EverydayCo,67.43,40.39,156
+401,Luma Fitness Tracker 05,Sports & Fitness,Fitness Tracker,EverydayCo,43.6,30.82,299
+402,EverydayCo Fitness Tracker 06,Sports & Fitness,Fitness Tracker,EverydayCo,16.17,12.21,154
+403,Luma Fitness Tracker 07,Sports & Fitness,Fitness Tracker,HomeEase,27.35,15.16,49
+404,Apex Fitness Tracker 08,Sports & Fitness,Fitness Tracker,Apex,31.38,22.22,140
+405,Pulse Fitness Tracker 09,Sports & Fitness,Fitness Tracker,Nova,77.84,48.22,153
+406,Luma Fitness Tracker 10,Sports & Fitness,Fitness Tracker,Luma,26.76,12.63,147
+407,HomeEase Fitness Tracker 11,Sports & Fitness,Fitness Tracker,Luma,80.3,62.27,496
+408,Pulse Fitness Tracker 12,Sports & Fitness,Fitness Tracker,Pulse,40.18,24.7,477
+409,Vertex Gym Bag 01,Sports & Fitness,Gym Bag,EverydayCo,58.53,28.03,485
+410,UrbanPeak Gym Bag 02,Sports & Fitness,Gym Bag,Luma,46.79,35.44,406
+411,Pulse Gym Bag 03,Sports & Fitness,Gym Bag,HomeEase,40.76,22.54,75
+412,HomeEase Gym Bag 04,Sports & Fitness,Gym Bag,Vertex,51.73,39.73,111
+413,Pulse Gym Bag 05,Sports & Fitness,Gym Bag,Vertex,79.93,43.63,29
+414,HomeEase Gym Bag 06,Sports & Fitness,Gym Bag,HomeEase,17.91,10.51,478
+415,Luma Gym Bag 07,Sports & Fitness,Gym Bag,Vertex,36.41,27.39,45
+416,Vertex Gym Bag 08,Sports & Fitness,Gym Bag,EverydayCo,21.25,14.09,425
+417,Luma Gym Bag 09,Sports & Fitness,Gym Bag,Apex,34.57,24.64,306
+418,Vertex Gym Bag 10,Sports & Fitness,Gym Bag,Vertex,23.85,13.61,263
+419,UrbanPeak Gym Bag 11,Sports & Fitness,Gym Bag,HomeEase,90.95,51.02,248
+420,HomeEase Gym Bag 12,Sports & Fitness,Gym Bag,EverydayCo,58.02,31.43,129
+421,Luma Business Book 01,Books,Business Book,Apex,113.95,78.89,129
+422,Nova Business Book 02,Books,Business Book,Apex,44.42,28.07,79
+423,Nova Business Book 03,Books,Business Book,EverydayCo,39.09,22.54,188
+424,Apex Business Book 04,Books,Business Book,Nova,25.07,13.79,456
+425,Nova Business Book 05,Books,Business Book,Vertex,40.21,30.59,14
+426,Luma Business Book 06,Books,Business Book,Pulse,109.39,67.46,325
+427,EverydayCo Business Book 07,Books,Business Book,EverydayCo,29.08,13.4,329
+428,HomeEase Business Book 08,Books,Business Book,UrbanPeak,17.52,9.85,200
+429,Nova Business Book 09,Books,Business Book,Apex,71.81,47.87,297
+430,Nova Business Book 10,Books,Business Book,HomeEase,26.86,19.64,118
+431,Apex Business Book 11,Books,Business Book,Pulse,65.61,39.07,204
+432,UrbanPeak Business Book 12,Books,Business Book,Nova,93.17,45.07,412
+433,UrbanPeak Fiction Novel 01,Books,Fiction Novel,Pulse,31.64,18.28,438
+434,Apex Fiction Novel 02,Books,Fiction Novel,Pulse,44.14,33.1,38
+435,UrbanPeak Fiction Novel 03,Books,Fiction Novel,Luma,36.36,23.16,255
+436,Nova Fiction Novel 04,Books,Fiction Novel,Vertex,62.67,29.0,474
+437,Apex Fiction Novel 05,Books,Fiction Novel,Apex,59.7,27.7,233
+438,Nova Fiction Novel 06,Books,Fiction Novel,EverydayCo,10.5,7.08,315
+439,Pulse Fiction Novel 07,Books,Fiction Novel,Pulse,37.65,21.55,46
+440,EverydayCo Fiction Novel 08,Books,Fiction Novel,EverydayCo,93.47,67.92,386
+441,Apex Fiction Novel 09,Books,Fiction Novel,UrbanPeak,188.11,90.2,287
+442,Pulse Fiction Novel 10,Books,Fiction Novel,Apex,84.74,61.63,172
+443,Nova Fiction Novel 11,Books,Fiction Novel,Luma,66.37,32.86,499
+444,UrbanPeak Fiction Novel 12,Books,Fiction Novel,Nova,14.75,6.72,475
+445,UrbanPeak Cookbook 01,Books,Cookbook,Pulse,53.23,39.24,94
+446,Apex Cookbook 02,Books,Cookbook,Nova,77.47,50.23,409
+447,UrbanPeak Cookbook 03,Books,Cookbook,Vertex,12.99,9.71,274
+448,Apex Cookbook 04,Books,Cookbook,Vertex,105.37,81.77,65
+449,Nova Cookbook 05,Books,Cookbook,Nova,64.79,43.09,107
+450,Vertex Cookbook 06,Books,Cookbook,HomeEase,24.86,12.84,280
+451,Luma Cookbook 07,Books,Cookbook,Pulse,64.2,35.63,451
+452,Pulse Cookbook 08,Books,Cookbook,Vertex,27.82,19.59,124
+453,Vertex Cookbook 09,Books,Cookbook,HomeEase,48.06,31.23,110
+454,HomeEase Cookbook 10,Books,Cookbook,Apex,17.76,12.93,104
+455,Vertex Cookbook 11,Books,Cookbook,HomeEase,51.15,25.25,467
+456,Luma Cookbook 12,Books,Cookbook,Vertex,40.61,20.86,241
+457,Luma Self-Help Book 01,Books,Self-Help Book,Vertex,73.04,51.99,426
+458,HomeEase Self-Help Book 02,Books,Self-Help Book,Nova,13.28,7.27,97
+459,EverydayCo Self-Help Book 03,Books,Self-Help Book,Apex,44.02,32.6,390
+460,Pulse Self-Help Book 04,Books,Self-Help Book,Luma,168.55,82.72,136
+461,EverydayCo Self-Help Book 05,Books,Self-Help Book,Luma,11.09,8.58,333
+462,UrbanPeak Self-Help Book 06,Books,Self-Help Book,Apex,17.97,10.1,128
+463,Nova Self-Help Book 07,Books,Self-Help Book,Nova,40.07,19.46,409
+464,EverydayCo Self-Help Book 08,Books,Self-Help Book,HomeEase,7.08,4.23,33
+465,Apex Self-Help Book 09,Books,Self-Help Book,Nova,51.32,23.92,69
+466,UrbanPeak Self-Help Book 10,Books,Self-Help Book,UrbanPeak,30.25,19.26,68
+467,Vertex Self-Help Book 11,Books,Self-Help Book,Vertex,11.67,8.67,401
+468,Apex Self-Help Book 12,Books,Self-Help Book,Luma,12.33,8.67,406
+469,EverydayCo Technology Book 01,Books,Technology Book,Vertex,108.03,64.08,107
+470,Vertex Technology Book 02,Books,Technology Book,Nova,80.29,40.53,453
+471,Luma Technology Book 03,Books,Technology Book,Apex,60.69,30.29,38
+472,UrbanPeak Technology Book 04,Books,Technology Book,Vertex,28.61,19.67,40
+473,Nova Technology Book 05,Books,Technology Book,EverydayCo,66.27,40.31,132
+474,HomeEase Technology Book 06,Books,Technology Book,Vertex,66.0,40.27,323
+475,Nova Technology Book 07,Books,Technology Book,Vertex,119.55,81.8,327
+476,Nova Technology Book 08,Books,Technology Book,Luma,120.63,54.48,49
+477,EverydayCo Technology Book 09,Books,Technology Book,Pulse,24.43,16.88,299
+478,Nova Technology Book 10,Books,Technology Book,EverydayCo,42.55,28.13,489
+479,Vertex Technology Book 11,Books,Technology Book,UrbanPeak,50.19,36.62,286
+480,Nova Technology Book 12,Books,Technology Book,UrbanPeak,14.87,11.36,442
+481,Vertex Children's Book 01,Books,Children's Book,Pulse,67.03,41.74,130
+482,Apex Children's Book 02,Books,Children's Book,Apex,30.49,13.94,456
+483,Nova Children's Book 03,Books,Children's Book,Apex,44.0,20.08,359
+484,Nova Children's Book 04,Books,Children's Book,Pulse,9.75,7.49,403
+485,Luma Children's Book 05,Books,Children's Book,Luma,73.75,53.12,163
+486,Pulse Children's Book 06,Books,Children's Book,Nova,17.14,10.68,24
+487,Luma Children's Book 07,Books,Children's Book,Pulse,24.19,15.96,121
+488,Nova Children's Book 08,Books,Children's Book,EverydayCo,19.2,13.71,124
+489,Apex Children's Book 09,Books,Children's Book,HomeEase,32.82,17.2,316
+490,UrbanPeak Children's Book 10,Books,Children's Book,Luma,47.92,29.17,492
+491,UrbanPeak Children's Book 11,Books,Children's Book,Pulse,37.74,25.65,441
+492,Vertex Children's Book 12,Books,Children's Book,EverydayCo,19.71,14.02,185
+493,Nova Travel Guide 01,Books,Travel Guide,Pulse,100.59,55.28,308
+494,Vertex Travel Guide 02,Books,Travel Guide,EverydayCo,28.59,16.86,120
+495,Nova Travel Guide 03,Books,Travel Guide,Pulse,63.44,42.11,496
+496,Nova Travel Guide 04,Books,Travel Guide,Vertex,14.99,7.32,138
+497,Pulse Travel Guide 05,Books,Travel Guide,Nova,102.52,46.45,385
+498,Apex Travel Guide 06,Books,Travel Guide,Pulse,23.13,11.38,40
+499,Luma Travel Guide 07,Books,Travel Guide,Apex,25.8,15.35,33
+500,HomeEase Travel Guide 08,Books,Travel Guide,Pulse,19.5,14.13,59
+501,Pulse Travel Guide 09,Books,Travel Guide,Vertex,22.24,11.3,302
+502,Luma Travel Guide 10,Books,Travel Guide,UrbanPeak,22.39,11.98,448
+503,Nova Travel Guide 11,Books,Travel Guide,HomeEase,15.77,7.45,132
+504,Nova Travel Guide 12,Books,Travel Guide,UrbanPeak,36.05,21.46,12
