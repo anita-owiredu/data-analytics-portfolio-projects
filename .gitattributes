@@ -1,0 +1,4 @@
+# Count the PostgreSQL scripts in GitHub's Languages bar. GitHub treats plain SQL as data and leaves it out
+# by default, and has no language called "PostgreSQL": its name for PostgreSQL's SQL is PLpgSQL.
+*.sql linguist-detectable=true
+*.sql linguist-language=PLpgSQL
