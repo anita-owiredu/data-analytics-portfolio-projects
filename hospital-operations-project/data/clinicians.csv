@@ -1,0 +1,51 @@
+clinician_id,clinician_name,speciality,clinic_id,employment_type,hourly_cost,available_hours_monthly
+DR001,Layla Edwards,General Practice,CL001,Full-time,112.86,134
+DR002,Ella Williams,Cardiology,CL002,Contractor,78.6,82
+DR003,Lucas Stewart,Dermatology,CL003,Full-time,101.73,145
+DR004,Jacob Campbell,Physiotherapy,CL004,Full-time,82.63,113
+DR005,Mia Adams,Orthopaedics,CL005,Full-time,104.54,112
+DR006,Chloe Mitchell,Ophthalmology,CL006,Full-time,69.22,122
+DR007,Finn Baker,Gynaecology,CL007,Part-time,42.11,65
+DR008,Ava Green,Dentistry,CL008,Full-time,68.48,114
+DR009,Finn Collins,ENT,CL009,Part-time,117.82,71
+DR010,Henry Young,Nutrition,CL010,Part-time,55.64,80
+DR011,Ivy Hall,General Practice,CL001,Part-time,101.1,76
+DR012,Lucas Bennett,Cardiology,CL002,Full-time,85.82,141
+DR013,Joseph Green,Dermatology,CL003,Part-time,75.61,79
+DR014,Oscar Robinson,Physiotherapy,CL004,Full-time,42.78,101
+DR015,Aria Stewart,Orthopaedics,CL005,Full-time,120.33,125
+DR016,Layla Edwards,Ophthalmology,CL006,Full-time,72.33,96
+DR017,Maya Walker,Gynaecology,CL007,Part-time,48.07,64
+DR018,Adam Adams,Dentistry,CL008,Full-time,124.95,90
+DR019,Ella Shah,ENT,CL009,Full-time,119.64,90
+DR020,Harry Mitchell,Nutrition,CL010,Part-time,101.05,73
+DR021,Niamh Turner,General Practice,CL001,Part-time,39.79,80
+DR022,Emily Collins,Cardiology,CL002,Full-time,68.22,117
+DR023,Arthur Stewart,Dermatology,CL003,Part-time,103.83,89
+DR024,Sofia Lewis,Physiotherapy,CL004,Full-time,42.67,94
+DR025,Niamh Morgan,Orthopaedics,CL005,Full-time,59.92,124
+DR026,Hannah Campbell,Ophthalmology,CL006,Contractor,152.51,51
+DR027,Maya Wright,Gynaecology,CL007,Full-time,58.81,134
+DR028,Isla Green,Dentistry,CL008,Full-time,90.2,124
+DR029,Emily Carter,ENT,CL009,Full-time,96.15,134
+DR030,Freya Evans,Nutrition,CL010,Full-time,63.98,99
+DR031,Ella Campbell,General Practice,CL001,Contractor,99.7,90
+DR032,Lily Adams,Cardiology,CL002,Full-time,80.55,144
+DR033,Lucas Parker,Dermatology,CL003,Full-time,98.68,139
+DR034,Isla Carter,Physiotherapy,CL004,Part-time,38.41,45
+DR035,Harry Shah,Orthopaedics,CL005,Full-time,66.88,130
+DR036,Lucas Carter,Ophthalmology,CL006,Contractor,158.45,43
+DR037,Adam Wright,Gynaecology,CL007,Full-time,83.38,115
+DR038,Hannah Collins,Dentistry,CL008,Full-time,101.48,107
+DR039,Arthur Phillips,ENT,CL009,Full-time,71.34,143
+DR040,Henry Williams,Nutrition,CL010,Contractor,136.69,67
+DR041,Amelia Williams,General Practice,CL001,Full-time,83.12,104
+DR042,Sofia Green,Cardiology,CL002,Contractor,70.2,51
+DR043,Emily Hall,Dermatology,CL003,Full-time,56.68,120
+DR044,Samuel Bennett,Physiotherapy,CL004,Part-time,58.91,53
+DR045,Theo Edwards,Orthopaedics,CL005,Full-time,58.59,110
+DR046,Theo Turner,Ophthalmology,CL006,Full-time,124.81,149
+DR047,Maya Adams,Gynaecology,CL007,Contractor,131.13,76
+DR048,Oliver Bennett,Dentistry,CL008,Contractor,119.9,38
+DR049,George Bennett,ENT,CL009,Full-time,54.96,143
+DR050,Jack Adams,Nutrition,CL010,Full-time,83.39,150
