@@ -1,0 +1,11 @@
+clinic_id,clinic_name,city,region,clinic_type,opening_date,capacity_daily
+CL001,London Central Clinic,London,London,Main,2016-03-15,95
+CL002,Ilford Health Centre,Ilford,London,Specialist,2018-07-01,70
+CL003,Manchester Medical Clinic,Manchester,North West,Main,2017-11-20,85
+CL004,Birmingham Health Clinic,Birmingham,West Midlands,Main,2019-02-10,80
+CL005,Leeds Specialist Centre,Leeds,Yorkshire and the Humber,Specialist,2020-06-08,65
+CL006,Bristol Care Clinic,Bristol,South West,Main,2018-09-17,75
+CL007,Cambridge Medical Centre,Cambridge,East of England,Specialist,2021-01-11,55
+CL008,Reading Express Clinic,Reading,South East,Express,2022-04-04,60
+CL009,Nottingham Health Clinic,Nottingham,East Midlands,Main,2019-10-21,70
+CL010,Liverpool Outpatient Centre,Liverpool,North West,Specialist,2020-12-07,60
